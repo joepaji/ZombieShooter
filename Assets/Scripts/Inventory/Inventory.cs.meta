@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ec3f92919235a5f4db8bdca8f5779157
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - deathScreen: {instanceID: 0}
+  - gunHandler: {instanceID: 0}
+  - equipeBox: {instanceID: 0}
+  - inventory: {instanceID: 0}
+  - slot: {instanceID: 0}
+  - dropPosition: {instanceID: 0}
+  - dropBox: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
